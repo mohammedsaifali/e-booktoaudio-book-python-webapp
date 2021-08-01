@@ -1,0 +1,3 @@
+pdfplumber
+streamlit
+gtts
